@@ -1,4 +1,8 @@
-login.live.com
+DOMAIN,login.live.com
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,singular.net
+DOMAIN-SUFFIX,licdn.cn
+DOMAIN-SUFFIX,openai.com
